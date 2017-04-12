@@ -1,0 +1,3 @@
+[submodule "cropit"]
+	path = cropit
+	url = https://github.com/scottcheng/cropit
